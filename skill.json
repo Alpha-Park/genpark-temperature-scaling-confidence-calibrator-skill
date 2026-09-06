@@ -1,0 +1,15 @@
+{
+  "name": "genpark-temperature-scaling-confidence-calibrator-skill",
+  "version": "1.0.0",
+  "description": "Post-processing confidence calibration using temperature scaling, expected calibration error (ECE), and Brier score evaluation.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "temperature-scaling",
+    "calibration-error",
+    "ece",
+    "platt-scaling",
+    "confidence-calibration"
+  ]
+}
